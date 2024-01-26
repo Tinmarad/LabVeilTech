@@ -1,0 +1,15 @@
+{
+  "links": [
+   
+    {
+      "name": "github",
+      "url": "https://github.com/Tinmarad",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/martin-a-161053172/",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
